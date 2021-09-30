@@ -1,0 +1,81 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?bqq4v');
+  src:  url('fonts/icomoon.eot?bqq4v#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?bqq4v') format('truetype'),
+    url('fonts/icomoon.woff?bqq4v') format('woff'),
+    url('fonts/icomoon.svg?bqq4v#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-loan:before {
+  content: "\e900";
+}
+.icon-responsibility:before {
+  content: "\e901";
+}
+.icon-talent:before {
+  content: "\e902";
+}
+.icon-user-experience:before {
+  content: "\e903";
+}
+.icon-speed:before {
+  content: "\e904";
+}
+.icon-guarantee:before {
+  content: "\e905";
+}
+.icon-reliability:before {
+  content: "\e906";
+}
+.icon-key:before {
+  content: "\e907";
+}
+.icon-agriculture:before {
+  content: "\e908";
+}
+.icon-personal:before {
+  content: "\e909";
+}
+.icon-scholarship:before {
+  content: "\e90a";
+}
+.icon-loan-1:before {
+  content: "\e90b";
+}
+.icon-loan-2:before {
+  content: "\e90c";
+}
+.icon-right-quote:before {
+  content: "\e90d";
+}
+.icon-pin:before {
+  content: "\e90e";
+}
+.icon-email:before {
+  content: "\e90f";
+}
+.icon-Hnetcom-image1:before {
+  content: "\e910";
+}
+.icon-Hnetcom-image3:before {
+  content: "\e911";
+}
